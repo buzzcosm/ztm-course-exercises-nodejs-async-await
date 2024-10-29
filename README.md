@@ -12,5 +12,5 @@ Showcase for async functions.
 ## Useful references
 
 - [Mozilla - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-- [W3School - JS Async]([Async](https://www.w3schools.com/js/js_async.asp))
+- [W3School - JS Async](https://www.w3schools.com/js/js_async.asp)
 - [Mozilla - try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
